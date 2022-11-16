@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\bin\Debug\NasljedivanjePonavljanje.exe.config
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\bin\Debug\NasljedivanjePonavljanje.exe
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\bin\Debug\NasljedivanjePonavljanje.pdb
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\obj\Debug\NasljedivanjePonavljanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\obj\Debug\NasljedivanjePonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\obj\Debug\NasljedivanjePonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\obj\Debug\NasljedivanjePonavljanje.exe
+C:\Users\ucenik\source\repos\NasljedivanjePonavljanje\NasljedivanjePonavljanje\obj\Debug\NasljedivanjePonavljanje.pdb
